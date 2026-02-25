@@ -1,4 +1,4 @@
-# UPLB Graduate School (GS) Zotero Citation Style
+# UPLB GS Citation Style
 
 This repository contains a custom Citation Style Language file, `./UPLB-GS-style.csl`, designed in accordance to the University of the Philippines Los Banos (UPLB) Graduate School manuscript requirements.
 
