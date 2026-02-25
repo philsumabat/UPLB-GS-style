@@ -1,6 +1,6 @@
 # UPLB Graduate School (GS) Zotero Citation Style
 
-This repository contains a custom Citation Style Language file, [`uplb-GS-style.csl`](./uplb-GS-style.csl), designed in accordance to the University of the Philippines Los Banos (UPLB) Graduate School manuscript requirements.
+This repository contains a custom Citation Style Language file, `./UPLB-GS-style.csl`, designed in accordance to the University of the Philippines Los Banos (UPLB) Graduate School manuscript requirements.
 
 ## Style Rules Implemented
 
@@ -12,12 +12,12 @@ This repository contains a custom Citation Style Language file, [`uplb-GS-style.
 
 ## Install in Zotero
 
-1.  Download or locate [`uplb-GS-style.csl`](./uplb-GS-style.csl) on your computer.
+1.  Download or locate [`UPLB-GS-style.csl`](./UPLB-GS-style.csl) on your computer.
 2.  Open Zotero desktop.
 3.  Go to `Edit > Preferences` (Windows) or `Zotero > Settings` (Mac).
 4.  Open the `Cite` tab, then the `Styles` sub-tab.
 5.  Click the `+` (plus) button below the styles list.
-6.  Select `uplb-GS-style.csl`, then click `Open`.
+6.  Select `UPLB-GS-style.csl`, then click `Open`.
 7.  The style will appear as `UPLB GS Style`.
 
 ## Quick Test
