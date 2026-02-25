@@ -29,7 +29,7 @@ This repository contains a custom Citation Style Language file, `./UPLB-GS-style
 5.  Press `Enter` a few times to add space, then click `Add/Edit Bibliography`.
 6.  Zotero will generate the references using UPLB GS formatting rules.
 
-## Real Output Examples (from `examples.docx`)
+## Output Examples
 
 ### In-Text Citation Examples
 
